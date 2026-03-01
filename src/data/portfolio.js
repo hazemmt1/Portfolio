@@ -1,3 +1,5 @@
+import hazemPhoto from '../assets/hazem.jpg';
+
 export const portfolioData = {
   personal: {
     name: "Hazem AlTaamneh",
@@ -7,7 +9,7 @@ export const portfolioData = {
     email: "hazem@example.com",
     phone: "+1 (555) 123-4567",
     bio: "Experienced Architectural Engineer with a passion for facade design and technical innovation. Specialized in BIM modeling, 3D visualization, and construction management.",
-    image: "/Portfolio/src/assets/hazem.jpg",
+    image: hazemPhoto,
     coverImage: "https://images.unsplash.com/photo-1618005182384-a83a8e7d3e18?w=1200&h=400&fit=crop"
   },
 
